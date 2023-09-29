@@ -1,4 +1,5 @@
 const DEFAULT_DAY = "Número de día inválido";
+
 /** Crear una función que devuelva los días de la semana en función de un número dado, haciendo uso de switch case
  * 1 -> Lunes
  * 2 -> Martes

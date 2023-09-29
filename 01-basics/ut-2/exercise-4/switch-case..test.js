@@ -1,6 +1,5 @@
 import * as sc from "./switch-case.js";
 
-
 describe("switch-case days of week", () => {
   it('should returns "Lunes" for the number 1', () => {
     expect(sc.getDayOfWeekSC(1)).toBe("Lunes");

@@ -1,8 +1,5 @@
 import * as literals from "./literals-objects.js";
 
-
-
-
 describe("Access to the properties of person object literal", () => {
   it("should returns the street of person object", () => {
     expect(literals.getStreet()).toBe("C/ Larios");
