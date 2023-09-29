@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import * as sc from "./switch-case.js";
+=======
+import * as sc from "./switch-case";
+>>>>>>> a88a5969b91e50425191c01bb42dbbf9bb8aa6e1
 
 describe("switch-case days of week", () => {
   it('should returns "Lunes" for the number 1', () => {
