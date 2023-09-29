@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 import * as literals from "./literals-objects.js";
-=======
-import * as literals from "./literals-objects_solution";
->>>>>>> a88a5969b91e50425191c01bb42dbbf9bb8aa6e1
+
+
+
 
 describe("Access to the properties of person object literal", () => {
   it("should returns the street of person object", () => {
