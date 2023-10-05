@@ -3,6 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
 // Crear la imagen
 const img = document.createElement("img");
 img.src = "./img_la.jpg";
+img.alt="LA";
 document.body.appendChild(img);
 
 // Crear el elemento h1
