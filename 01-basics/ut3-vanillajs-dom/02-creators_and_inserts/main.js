@@ -22,5 +22,6 @@ const p2 = document.createElement("p");
 const p2Text = document.createTextNode("This is a another paragraph.");
 p2.appendChild(p2Text);
 document.body.appendChild(p2);
-   
+
+//Utilizando .append puedo introducirlo todo. Se sustituiria todos los .appendChild por un document.body.append(img,h1,p1,p2)
 });
