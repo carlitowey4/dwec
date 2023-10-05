@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     const inputsubmit = document.createElement("input");
     inputsubmit.type = "submit";
-    inputsubmit.value = "Submmit";
+    inputsubmit.value = "Submit";
     
     form.append(labeldatemax, inputdatemax, br.cloneNode(), br.cloneNode(), labeldatemin, inputdatemin, br.cloneNode(), br.cloneNode(), labelquantity, inputquantity, br.cloneNode(), br.cloneNode(), inputsubmit);
 
