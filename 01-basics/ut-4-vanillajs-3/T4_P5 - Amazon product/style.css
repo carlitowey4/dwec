@@ -1,1 +1,12 @@
+p{
+  background-color: rgba(218, 218, 218, 0.86);
+  border-radius: 5px;
+  height: 25px;
+}
 
+#container-producto {
+  display: flex;
+  justify-content: center; /* Centra horizontalmente los elementos hijos */
+  align-items: center; /* Centra verticalmente los elementos hijos */
+  height: 100vh; /* Opcional: ajusta la altura a la vista del usuario */
+}
